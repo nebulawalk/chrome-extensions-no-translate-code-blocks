@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
-      "matches": ["https://learning.oreilly.com/library/view/*"]
+      "matches": ["<all_urls>"]
     }
   ]
 }
