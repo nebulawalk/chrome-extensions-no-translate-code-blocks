@@ -15,11 +15,3 @@
 ## 使用方法
 
 この拡張機能は、ページ上のすべてのコードブロックに対して自動的に適用されます。コードブロックに `notranslate` クラスを追加し、翻訳されないようにします。
-
-## 貢献
-
-バグ報告や機能リクエストは、[Issues](https://github.com/nebulawalk/chrome-extensions-no-translate-code-block/issues)ページで受け付けています。プルリクエストも歓迎します。
-
-## ライセンス
-
-このプロジェクトは MIT ライセンスの下で公開されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
